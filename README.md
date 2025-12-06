@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Hi, I'm Ritik Ray
+**UI/UX Designer & Frontend Developer**
 
-<!--
-**ritiklray/ritiklray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design clean, user-friendly digital experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 Role
+UI/UX Designer — Wireframing, Prototyping, UX Research, Mobile & Web UI
+
+---
+
+## 🛠 Skills
+**Design:** Figma, Adobe XD, Motiff  
+**Frontend:** HTML, CSS, JavaScript, Dart
+
+---
+
+## 📞 Contact
+- 📧 ritikray@gmail.com  
+- 🔗 Portfolio: your-portfolio-link  
+- 🔗 LinkedIn: your-link
