@@ -6,12 +6,7 @@ I design clean, user-friendly digital experiences.
 ---
 
 ## 🛠 Skills
-Web Design
-Mobile App Design
-Wireframing
-Prototyping
-UX Research
-User Persona
+Web Design, Mobile App Design, Wireframing, Prototyping, UX Research, User Persona
 
 ---
 
