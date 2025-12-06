@@ -1,7 +1,5 @@
 ## 👋 Hi, I'm Ritik Ray
-**UI/UX Designer & Frontend Developer**
-
-3X Designathons Winner
+**UX Designer | Frontend & Flutter | 3× Designathon Winner
 
 ---
 
