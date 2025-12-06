@@ -4,14 +4,14 @@
 ---
 
 ## 🛠 Skills
-Web Design, Mobile App Design, Wireframing, Prototyping, UX Research, User Persona
+**Web Design, Mobile App Design, Wireframing, Prototyping, UX Research, User Persona**
 
 ---
 
 ## 🛠 Tools
-**Design:** Figma, Adobe XD, Motiff, Banani, Stitch, Magic Patterns
+**Design:** **Figma, Adobe XD, Motiff, Banani, Stitch, Magic Patterns**
 
-**Frontend:** HTML, CSS, JavaScript, Dart
+**Frontend:** **HTML, CSS, JavaScript, Dart**
 
 ---
 
