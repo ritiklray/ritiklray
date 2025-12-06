@@ -13,5 +13,6 @@ I design clean, user-friendly digital experiences.
 
 ## 📞 Contact
 - 📧 ritikray@gmail.com  
-- 🔗 Portfolio: your-portfolio-link  
-- 🔗 LinkedIn: your-link
+- 🔗 Portfolio: https://ritikrayportfolio.vercel.app/
+- 🔗 LinkedIn: www.linkedin.com/in/ritik-ray
+- 🔗 Behance: https://www.behance.net/ritikray5
