@@ -12,6 +12,7 @@ Web Design, Mobile App Design, Wireframing, Prototyping, UX Research, User Perso
 
 ## 🛠 Tools
 **Design:** Figma, Adobe XD, Motiff, Banani, Stitch, Magic Patterns
+
 **Frontend:** HTML, CSS, JavaScript, Dart
 
 ---
