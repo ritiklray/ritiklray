@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Ritik Ray
 **UI/UX Designer & Frontend Developer**
 
-I design clean, user-friendly digital experiences.
+3X Designathons Winner
 
 ---
 
