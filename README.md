@@ -16,7 +16,7 @@
 ---
 
 ## 📞 Contact
-- 📧 Email: ritikray@gmail.com  
-- 🔗 Portfolio: https://ritikrayportfolio.vercel.app/
-- 🔗 LinkedIn: www.linkedin.com/in/ritik-ray
-- 🔗 Behance: https://www.behance.net/ritikray5
+**- 📧 Email: ritikray@gmail.com**
+**- 🔗 Portfolio: https://ritikrayportfolio.vercel.app/**
+**- 🔗 LinkedIn: www.linkedin.com/in/ritik-ray**
+**- 🔗 Behance: https://www.behance.net/ritikray5**
