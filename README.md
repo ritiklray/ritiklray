@@ -2,7 +2,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 I’m a UI/UX Designer focused on creating clean, user-centered digital products with strong UX and UI principles.
 
 Alongside design, I work on front-end and Flutter development, using AI-assisted workflows to prototype faster and build MVPs.
