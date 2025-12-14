@@ -3,15 +3,13 @@
 ---
 
 ## 👋 About Me
-I’m a UI/UX Designer focused on turning ideas into clean, usable digital products with strong user experience and interface design.
+I’m a UI/UX Designer focused on creating clean, user-centered digital products with strong UX and UI principles.
 
-Alongside design, I work on front-end development and Flutter app development, using AI-assisted tools to speed up prototyping and ship ideas faster.
+Alongside design, I work on front-end and Flutter development, using AI-assisted workflows to prototype faster and build MVPs.
 
-I have experience with AI tools for UI design and UX research, including wireframing, prototyping, usability analysis, and design exploration to support data-informed design decisions.
+I have hands-on experience with AI tools for UI design and UX research, including wireframing, prototyping, and usability analysis to support better design decisions.
 
-I care deeply about user-centered design, clean UI, accessibility, and practical problem-solving over over-complicated visuals.
-
-Currently exploring product design, front-end engineering, Flutter development, and AI-powered design & development workflows.
+Currently exploring product design, front-end engineering, Flutter, and AI-powered design & development workflows.
 
 ---
 
